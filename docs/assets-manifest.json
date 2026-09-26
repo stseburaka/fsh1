@@ -1,0 +1,155 @@
+[
+  {
+    "slot": "team",
+    "reference": "/_assets/v11/78d91a84e09e8cfa83fb49941f7ac72cac4a80ac.png",
+    "width": 1238,
+    "height": 1238,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/team.png",
+    "output": "public/assets/photos/team.jpg"
+  },
+  {
+    "slot": "gallery-01",
+    "reference": "/_assets/v11/5d4f50664b8602c2c0b9b9b7a79dc7a48a0014fa.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/20250726_fsh1_by-Yauhen-Attsetski_12 1.png",
+    "output": "public/assets/photos/gallery-01.jpg"
+  },
+  {
+    "slot": "gallery-02",
+    "reference": "/_assets/v11/c7d50604fe39b31cb35d9d098b25a957918ecdf1.png",
+    "width": 1280,
+    "height": 1024,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC02883 1.png",
+    "output": "public/assets/photos/gallery-02.jpg"
+  },
+  {
+    "slot": "gallery-03",
+    "reference": "/_assets/v11/fd74fe11c3aa1e9020fd1059e084c0f257b58865.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/Bubich-6 1.png",
+    "output": "public/assets/photos/gallery-03.jpg"
+  },
+  {
+    "slot": "gallery-04",
+    "reference": "/_assets/v11/559084aff39106630b57994a7ce7da0ab1d3037a.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC06940 1.png",
+    "output": "public/assets/photos/gallery-04.jpg"
+  },
+  {
+    "slot": "gallery-05",
+    "reference": "/_assets/v11/5d1806f85d370c495c0fef86e6d385db60bb4602.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC07687 1.png",
+    "output": "public/assets/photos/gallery-05.jpg"
+  },
+  {
+    "slot": "gallery-06",
+    "reference": "/_assets/v11/0601723dd9eb22027f5bbab48cabe0029c6efb00.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC08636 1.png",
+    "output": "public/assets/photos/gallery-06.jpg"
+  },
+  {
+    "slot": "gallery-07",
+    "reference": "/_assets/v11/b8dd9197f89a5deee50283f19ef4deb7fc288f1a.png",
+    "width": 853,
+    "height": 1280,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC08099 1.png",
+    "output": "public/assets/photos/gallery-07.jpg"
+  },
+  {
+    "slot": "gallery-08",
+    "reference": "/_assets/v11/25dc479800e3f2a4d6bcd12d0618f4e28b21e506.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC08757 1.png",
+    "output": "public/assets/photos/gallery-08.jpg"
+  },
+  {
+    "slot": "gallery-09",
+    "reference": "/_assets/v11/e32c1178fcd60ba14281633b555de8098c443f81.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/20251024-26_Paper-photo-festival-by-Yauhen-Attsetski_032 1.png",
+    "output": "public/assets/photos/gallery-09.jpg"
+  },
+  {
+    "slot": "gallery-10",
+    "reference": "/_assets/v11/42e84a722189ad09c5d5a7b36bd2f27f4e402cee.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC03098 1.png",
+    "output": "public/assets/photos/gallery-10.jpg"
+  },
+  {
+    "slot": "gallery-11",
+    "reference": "/_assets/v11/c41fe8791b2269644897563f26c3964d36a6a717.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC00920 1.png",
+    "output": "public/assets/photos/gallery-11.jpg"
+  },
+  {
+    "slot": "gallery-12",
+    "reference": "/_assets/v11/e73642afe1f43c7cb5cf8e81fed2a8c0c17940df.png",
+    "width": 1024,
+    "height": 1280,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC08181 1.png",
+    "output": "public/assets/photos/gallery-12.jpg"
+  },
+  {
+    "slot": "gallery-13",
+    "reference": "/_assets/v11/1048efd013b7f065ae2784555ae614a1d75bf509.png",
+    "width": 1280,
+    "height": 855,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC07320 1.png",
+    "output": "public/assets/photos/gallery-13.jpg"
+  },
+  {
+    "slot": "gallery-14",
+    "reference": "/_assets/v11/8c93a28790aba0b9c57c192011485e1b2e18266e.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC08085 1.png",
+    "output": "public/assets/photos/gallery-14.jpg"
+  },
+  {
+    "slot": "gallery-15",
+    "reference": "/_assets/v11/e79ad2dc8b06d22d91007e0d81142e6522438764.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC08587 1.png",
+    "output": "public/assets/photos/gallery-15.jpg"
+  },
+  {
+    "slot": "gallery-16",
+    "reference": "/_assets/v11/594a8b404b9e8a0d3b58a330f57ebd5ad7d591e9.png",
+    "width": 1280,
+    "height": 853,
+    "status": "processed-from-inbox",
+    "source": "inbox/photos/DSC08893 1.png",
+    "output": "public/assets/photos/gallery-16.jpg"
+  }
+]

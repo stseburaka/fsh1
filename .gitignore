@@ -1,0 +1,5 @@
+.DS_Store
+inbox/*
+!inbox/.gitkeep
+.reference/
+__pycache__/

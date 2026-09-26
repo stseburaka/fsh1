@@ -1,0 +1,61 @@
+:root { color-scheme: dark; background: #000; color: #fff; font-family: "Open Sans:Regular", sans-serif; font-synthesis: none; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+h1, h2, h3, p, figure { margin: 0; }
+a { color: inherit; }
+a:focus-visible { outline: 2px solid #fff; outline-offset: 5px; }
+.page { padding: 20px 20px 154px; }
+.site-header, .main-layout, .gallery { width: 100%; max-width: 1440px; margin-inline: auto; }
+.site-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; padding-bottom: 160px; }
+.identity { display: flex; flex-direction: column; gap: 24px; min-width: 0; }
+.site-logo { width: 94px; height: 60.056px; flex: 0 0 auto; object-fit: contain; }
+.identity-text { font-size: 20px; line-height: 1.3; letter-spacing: -.02em; font-variation-settings: "wdth" 100; }
+h1 { font: inherit; }
+.identity-text p { color: #ababab; }
+.language-switch { font-size: 20px; line-height: 1.3; letter-spacing: -.004em; text-decoration: none; flex-shrink: 0; }
+.main-layout { display: flex; flex-direction: column; gap: 20px; align-items: flex-start; }
+.contacts { width: 100%; padding-right: 10px; flex-shrink: 0; }
+.contacts a { display: flex; align-items: center; gap: 1px; padding: 12px 6px; position: relative; text-decoration: none; font: 12px/1.3 "Schibsted Grotesk:Regular", sans-serif; letter-spacing: -.01em; }
+.contacts a::before, .about::before, .project::before { content: ""; position: absolute; top: 0; left: 0; right: 0; border-top: .5px solid #383838; pointer-events: none; }
+.contacts span { font: 600 9.867px/1.3 "Reddit Sans:SemiBold", sans-serif; letter-spacing: -.01em; }
+.content { width: 100%; min-width: 0; }
+h2 { font-family: "Open Sans:Bold", sans-serif; font-size: 20px; font-weight: 700; line-height: 1.3; letter-spacing: -.005em; }
+.about { position: relative; padding: 30px 20px 60px 0; display: flex; flex-direction: column; gap: 37px; }
+.intro { max-width: 720px; font-size: 19px; line-height: 1.4; letter-spacing: -.0019em; white-space: pre-wrap; }
+.projects { border-top: 1px solid #383838; padding: 29px 0 80px; }
+.project-list { padding-right: 20px; margin-top: 37px; display: flex; flex-direction: column; gap: 50px; }
+.project { position: relative; padding-top: 20px; display: flex; flex-direction: column; gap: 30px; font-size: 15px; line-height: 1.4; letter-spacing: -.3px; white-space: pre-wrap; }
+.project-title { color: #ababab; }
+h3 { color: #fff; font-family: "Open Sans:Bold", sans-serif; font-size: 15px; font-weight: 700; line-height: 1.3; letter-spacing: -.005em; }
+.project-title a { display: block; }
+.project-title p:not(:first-child), .project-title a, .project-description:has(a) { line-height: 1.35; letter-spacing: -.003em; }
+.team { border-top: .5px solid #383838; padding-top: 15.5px; padding-bottom: 60px; }
+.team figure { margin-top: 37px; }
+figcaption { margin-top: 12px; font-size: 15px; line-height: 1.4; letter-spacing: -.01em; white-space: pre-wrap; }
+.gallery, .gallery-column { display: flex; flex-direction: column; gap: 40px; }
+.gallery img, .team img { display: block; width: 100%; height: auto; }
+@media (min-width: 800px) {
+ .page { padding-inline: 30px; }
+ .identity { flex-direction: row; align-items: center; }
+ .identity-text, .language-switch { font-size: 22px; }
+ .main-layout { flex-direction: row; }
+ .contacts { position: sticky; top: 0; width: 240px; }
+ .content { flex: 1; padding-left: 20px; }
+ .about { padding-right: 60px; }
+ h2 { font-size: 24px; }
+ .intro { font-size: 22px; letter-spacing: -.0022em; }
+}
+@media (min-width: 1200px) { .identity-text, .language-switch { font-size: 24px; } }
+@media (min-width: 1280px) {
+ .contacts { width: 368px; }
+ .intro { font-size: 24px; letter-spacing: -.0024em; }
+ .project { flex-direction: row; font-size: 16px; }
+ .project-title, .project-description { flex: 1; min-width: 0; }
+ .project-title p:not(:first-child), .project-title a, .project-description:has(a) { line-height: 1.4; letter-spacing: -.0032em; }
+ figcaption { font-size: 16px; }
+ .gallery { flex-direction: row; align-items: flex-start; }
+ .gallery-column { flex: 1; min-width: 0; }
+}
+
+.project .text-spacer { font-size: 15px; line-height: 1.35; }
+@media (min-width: 1280px) { .project .text-spacer { line-height: 1.4; } }
