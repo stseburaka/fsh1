@@ -24,6 +24,6 @@ The original photographs are now present in `inbox/photos/` and have been conver
 | `DSC08587 1.png` | `gallery-15` | landscape |
 | `DSC08893 1.png` | `gallery-16` | landscape |
 
-The PNG originals remain in `inbox/photos/`. The JPEG derivatives use quality 88 and avoid upscaling; the square team image was resized to the production slot's 1238-pixel width.
+The PNG originals remain in `inbox/photos/`. The JPEG derivatives use quality 88, avoid upscaling, and are flattened onto the site's black background so semi-transparent export pixels at the image edges cannot become white seams. The square team image was resized to the production slot's 1238-pixel width.
 
 The exact production asset references and dimensions are in [`assets-manifest.json`](assets-manifest.json).
